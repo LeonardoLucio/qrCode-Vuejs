@@ -2,9 +2,8 @@
 Gerador de QRcode simples com Vue
 
 ```bash
-$ cd testeAlestEstagioDev
-$ cd testeAlestBackend
+$ git clone https://github.com/Leonardotheblack/testeAlestEstagioDev
 $ npm i
-$ npm start
+$ npm run http-server ./qrcode -c-1
 
 ```
